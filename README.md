@@ -17,7 +17,7 @@ If the theme doesn't switch automatically after installation, follow these steps
 2. Type **"Color Theme"** and select **"Preferences: Color Theme"**.
 3. Scroll through the list and select **One Dark Modern Pro**.
 
-Your theme should now be active, with One Dark Pro Darker colors for syntax and the native VS Code Dark Modern UI elements.
+Your theme should now be active, with One Dark Pro colors for syntax and the native VS Code Dark Modern UI elements.
 
 ## Preview
 
