@@ -1,10 +1,10 @@
 # One Dark Modern Pro
 
-A custom theme based on **One Dark Pro Darker** for syntax highlighting and **VS Code Dark Modern** for the user interface.
+A custom theme based on **One Dark Pro** for syntax highlighting and **VS Code Dark Modern** for the user interface.
 
 ## Features
 
-- **Syntax Highlighting**: Inspired by One Dark Pro Darker variant.
+- **Syntax Highlighting**: Inspired by One Dark Pro theme, Darker variant.
 - **UI Elements**: Based on VS Code's native **Dark Modern** theme.
 
 ## How to Switch to the Theme (If Not Applied Automatically)
