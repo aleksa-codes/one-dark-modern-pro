@@ -1,0 +1,43 @@
+{
+  "name": "one-dark-modern-pro",
+  "displayName": "One Dark Modern Pro",
+  "description": "Custom theme based on One Dark Pro for syntax highlighting and the native VS Code Dark Modern theme for UI.",
+  "version": "1.0.0",
+  "publisher": "aleksa-codes",
+  "license": "MIT",
+  "icon": "icon.png",
+  "homepage": "https://github.com/aleksa-codes/one-dark-modern-pro",
+  "bugs": {
+    "url": "https://github.com/aleksa-codes/one-dark-modern-pro/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aleksa-codes/one-dark-modern-pro"
+  },
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Dark Modern Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/One-Dark-Modern-Pro.json"
+      }
+    ]
+  },
+  "keywords": [
+    "one dark",
+    "onedark",
+    "one dark modern pro",
+    "modern",
+    "theme"
+  ],
+  "galleryBanner": {
+    "color": "#2d323b",
+    "theme": "dark"
+  }
+}
