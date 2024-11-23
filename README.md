@@ -2,6 +2,10 @@
 
 A custom theme based on **One Dark Pro** for syntax highlighting and **VS Code Dark Modern** for the user interface.
 
+## Preview
+
+![Preview](./preview.png)
+
 ## Features
 
 - **Syntax Highlighting**: Inspired by [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) theme, Darker variant.
@@ -25,10 +29,6 @@ If the theme doesn't switch automatically after installation, follow these steps
 3. Scroll through the list and select **One Dark Modern Pro**.
 
 Your theme should now be active, with One Dark Pro colors for syntax and the native VS Code Dark Modern UI elements.
-
-## Preview
-
-![Preview](./images/preview.png)
 
 ## License
 
