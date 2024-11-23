@@ -4,7 +4,7 @@
 
 A custom theme based on **One Dark Pro** for syntax highlighting and **VS Code Dark Modern** for the user interface.
 
-[GitHub Repo](https://github.com/Binaryify/OneDark-Pro)
+[GitHub Repo](https://github.com/aleksa-codes/one-dark-modern-pro)
 
 ## Preview
 
