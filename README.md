@@ -1,6 +1,10 @@
-# One Dark Modern Pro
+# [One Dark Modern Pro](https://marketplace.visualstudio.com/items?itemName=aleksa-codes.one-dark-modern-pro)
+
+[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/aleksa-codes.one-dark-modern-pro) [![Version](https://vsmarketplacebadges.dev/version/aleksa-codes.one-dark-modern-pro.png)](https://marketplace.visualstudio.com/items?itemName=aleksa-codes.one-dark-modern-pro) [![Installs](https://vsmarketplacebadges.dev/installs/aleksa-codes.one-dark-modern-pro.png)](https://marketplace.visualstudio.com/items?itemName=aleksa-codes.one-dark-modern-pro)
 
 A custom theme based on **One Dark Pro** for syntax highlighting and **VS Code Dark Modern** for the user interface.
+
+[GitHub Repo](https://github.com/Binaryify/OneDark-Pro)
 
 ## Preview
 
