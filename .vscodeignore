@@ -1,0 +1,13 @@
+# Exclude the packaged .vsix file
+*.vsix
+
+# Exclude unnecessary images
+preview.png
+
+# Exclude potential temp or config files
+.vscode/
+*.log
+
+# Exclude everything else not required for the extension
+.git/
+.gitignore
