@@ -239,10 +239,7 @@
     },
     {
       "name": "java type",
-      "scope": [
-        "storage.type.annotation.java",
-        "storage.type.object.array.java"
-      ],
+      "scope": ["storage.type.annotation.java", "storage.type.object.array.java"],
       "settings": {
         "foreground": "#e5c07b"
       }
@@ -626,12 +623,7 @@
     },
     {
       "name": "Functions",
-      "scope": [
-        "entity.name.function",
-        "meta.require",
-        "support.function.any-method",
-        "variable.function"
-      ],
+      "scope": ["entity.name.function", "meta.require", "support.function.any-method", "variable.function"],
       "settings": {
         "foreground": "#61afef"
       }
@@ -659,11 +651,7 @@
     },
     {
       "name": "Class name",
-      "scope": [
-        "entity.name.class",
-        "variable.other.class.js",
-        "variable.other.class.ts"
-      ],
+      "scope": ["entity.name.class", "variable.other.class.js", "variable.other.class.ts"],
       "settings": {
         "foreground": "#e5c07b"
       }
@@ -1492,20 +1480,14 @@
     },
     {
       "name": "go operator",
-      "scope": [
-        "keyword.operator.arithmetic.go",
-        "keyword.operator.address.go"
-      ],
+      "scope": ["keyword.operator.arithmetic.go", "keyword.operator.address.go"],
       "settings": {
         "foreground": "#c678dd"
       }
     },
     {
       "name": "c arithmetic",
-      "scope": [
-        "keyword.operator.arithmetic.c",
-        "keyword.operator.arithmetic.cpp"
-      ],
+      "scope": ["keyword.operator.arithmetic.c", "keyword.operator.arithmetic.cpp"],
       "settings": {
         "foreground": "#c678dd"
       }
@@ -1547,10 +1529,7 @@
     },
     {
       "name": "styling css pseudo-elements/classes to be able to differentiate from classes which are the same colour",
-      "scope": [
-        "entity.other.attribute-name.pseudo-element",
-        "entity.other.attribute-name.pseudo-class"
-      ],
+      "scope": ["entity.other.attribute-name.pseudo-element", "entity.other.attribute-name.pseudo-class"],
       "settings": {
         "foreground": "#56b6c2"
       }
@@ -1771,11 +1750,7 @@
     },
     {
       "name": "Markdown underscore-style headers",
-      "scope": [
-        "entity.name.label.cs",
-        "markup.heading.setext.1.markdown",
-        "markup.heading.setext.2.markdown"
-      ],
+      "scope": ["entity.name.label.cs", "markup.heading.setext.1.markdown", "markup.heading.setext.2.markdown"],
       "settings": {
         "foreground": "#e06c75"
       }
@@ -1809,10 +1784,7 @@
       }
     },
     {
-      "scope": [
-        "constant.language.symbol.elixir",
-        "constant.language.symbol.double-quoted.elixir"
-      ],
+      "scope": ["constant.language.symbol.elixir", "constant.language.symbol.double-quoted.elixir"],
       "settings": {
         "foreground": "#56b6c2"
       }
@@ -1852,10 +1824,7 @@
     },
     {
       "name": "punctuation.section.embedded.begin.php",
-      "scope": [
-        "punctuation.section.embedded.begin.php",
-        "punctuation.section.embedded.end.php"
-      ],
+      "scope": ["punctuation.section.embedded.begin.php", "punctuation.section.embedded.end.php"],
       "settings": {
         "foreground": "#BE5046"
       }
@@ -1965,10 +1934,7 @@
       }
     },
     {
-      "scope": [
-        "support.class.math.block.environment.latex",
-        "constant.other.general.math.tex"
-      ],
+      "scope": ["support.class.math.block.environment.latex", "constant.other.general.math.tex"],
       "settings": {
         "foreground": "#61afef"
       }
@@ -2104,6 +2070,22 @@
     "terminal.foreground": "#cccccc",
     "terminal.inactiveSelectionBackground": "#3a3d41",
     "terminal.tab.activeBorder": "#0078d4",
+    "terminal.ansiBlack": "#3f4451",
+    "terminal.ansiBlue": "#4aa5f0",
+    "terminal.ansiBrightBlack": "#4f5666",
+    "terminal.ansiBrightBlue": "#4dc4ff",
+    "terminal.ansiBrightCyan": "#4cd1e0",
+    "terminal.ansiBrightGreen": "#a5e075",
+    "terminal.ansiBrightMagenta": "#de73ff",
+    "terminal.ansiBrightRed": "#ff616e",
+    "terminal.ansiBrightWhite": "#e6e6e6",
+    "terminal.ansiBrightYellow": "#f0a45d",
+    "terminal.ansiCyan": "#42b3c2",
+    "terminal.ansiGreen": "#8cc265",
+    "terminal.ansiMagenta": "#c162de",
+    "terminal.ansiRed": "#e05561",
+    "terminal.ansiWhite": "#d7dae0",
+    "terminal.ansiYellow": "#d18f52",
     "textBlockQuote.background": "#2b2b2b",
     "textBlockQuote.border": "#616161",
     "textCodeBlock.background": "#2b2b2b",
