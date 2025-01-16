@@ -12,8 +12,8 @@ A custom theme based on **One Dark Pro** for syntax highlighting and **VS Code D
 
 ## Features
 
-- **Syntax Highlighting**: Inspired by [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) theme, Darker variant.
-- **UI Elements**: Based on VS Code's native **Dark Modern** theme.
+- **Syntax Highlighting**: [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) theme syntax colors.
+- **UI Elements**: VS Code's native [Dark Modern](https://github.com/microsoft/vscode/blob/main/extensions/theme-defaults/themes/dark_modern.json) UI elements.
 
 ## Recommendations
 
