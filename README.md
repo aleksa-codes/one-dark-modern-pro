@@ -2,7 +2,7 @@
 
 [![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/aleksa-codes.one-dark-modern-pro) [![Version](https://vsmarketplacebadges.dev/version/aleksa-codes.one-dark-modern-pro.png)](https://marketplace.visualstudio.com/items?itemName=aleksa-codes.one-dark-modern-pro) [![Installs](https://vsmarketplacebadges.dev/installs/aleksa-codes.one-dark-modern-pro.png)](https://marketplace.visualstudio.com/items?itemName=aleksa-codes.one-dark-modern-pro)
 
-A custom theme based on **One Dark Pro** for syntax highlighting and **VS Code Dark Modern** for the user interface.
+A custom theme that combines the best of both worlds. While I loved One Dark Pro's syntax highlighting, even its Darker variant wasn't quite dark enough for my taste. When VS Code introduced their Dark Modern theme, I was impressed by it but was missing One Dark Pro's syntax colors. This inspired me to create a hybrid theme that features **One Dark Pro**'s excellent syntax highlighting with **VS Code Dark Modern**'s refined user interface elements.
 
 [GitHub Repo](https://github.com/aleksa-codes/one-dark-modern-pro)
 
@@ -14,6 +14,10 @@ A custom theme based on **One Dark Pro** for syntax highlighting and **VS Code D
 
 - **Syntax Highlighting**: [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) theme syntax colors.
 - **UI Elements**: VS Code's native [Dark Modern](https://github.com/microsoft/vscode/blob/main/extensions/theme-defaults/themes/dark_modern.json) UI elements.
+
+## Leave a Review
+
+If you enjoy using this theme, please consider leaving a review and rating on the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=aleksa-codes.one-dark-modern-pro&ssr=false#review-details). Your feedback helps other developers discover this theme and is greatly appreciated!
 
 ## Recommendations
 
