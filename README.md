@@ -1,5 +1,7 @@
 # [One Dark Modern Pro](https://marketplace.visualstudio.com/items?itemName=aleksa-codes.one-dark-modern-pro)
 
+![Theme Banner](./theme-banner.png)
+
 [![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/aleksa-codes.one-dark-modern-pro) [![Version](https://vsmarketplacebadges.dev/version/aleksa-codes.one-dark-modern-pro.png)](https://marketplace.visualstudio.com/items?itemName=aleksa-codes.one-dark-modern-pro) [![Installs](https://vsmarketplacebadges.dev/installs/aleksa-codes.one-dark-modern-pro.png)](https://marketplace.visualstudio.com/items?itemName=aleksa-codes.one-dark-modern-pro)
 
 A custom theme that combines the best of both worlds. While I loved One Dark Pro's syntax highlighting, even its Darker variant wasn't quite dark enough for my taste. When VS Code introduced their Dark Modern theme, I was impressed by it but was missing One Dark Pro's syntax colors. This inspired me to create a hybrid theme that features **One Dark Pro**'s excellent syntax highlighting with **VS Code Dark Modern**'s refined user interface elements.
