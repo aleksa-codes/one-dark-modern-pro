@@ -26,7 +26,7 @@ If you enjoy using this theme, please consider leaving a review and rating on th
 To enhance your coding experience, consider using the following:
 
 - **Font**: [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) – A clean, monospaced font designed specifically for developers.
-- **Icons**: [Bearded Icons](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedicons) – A modern and stylish icon set for Visual Studio Code.
+- **Icons**: [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) – A modern and stylish icon set for Visual Studio Code.
 
 ## How to Switch to the Theme (If Not Applied Automatically)
 
