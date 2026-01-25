@@ -1983,6 +1983,8 @@
     "editorGutter.addedBackground": "#2EA043",
     "editorGutter.deletedBackground": "#F85149",
     "editorGutter.modifiedBackground": "#0078D4",
+    "editorIndentGuide.background1": "#404040",
+    "editorIndentGuide.activeBackground1": "#707070",
     "editorLineNumber.activeForeground": "#CCCCCC",
     "editorLineNumber.foreground": "#6E7681",
     "editorOverviewRuler.border": "#010409",
