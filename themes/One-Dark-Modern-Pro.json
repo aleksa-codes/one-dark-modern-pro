@@ -1,4 +1,5 @@
 {
+  "$schema": "vscode://schemas/color-theme",
   "name": "One Dark Modern Pro",
   "type": "dark",
   "semanticHighlighting": true,
