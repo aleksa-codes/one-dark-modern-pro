@@ -2,7 +2,7 @@
   "name": "one-dark-modern-pro",
   "displayName": "One Dark Modern Pro",
   "description": "One Dark Pro syntax + Default Dark Modern UI",
-  "version": "1.0.10",
+  "version": "1.1.0",
   "publisher": "aleksa-codes",
   "license": "MIT",
   "icon": "icon.png",
@@ -26,6 +26,11 @@
         "label": "One Dark Modern Pro",
         "uiTheme": "vs-dark",
         "path": "./themes/One-Dark-Modern-Pro.json"
+      },
+      {
+        "label": "One Dark 2026 Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/One-Dark-2026-Pro.json"
       }
     ]
   },
