@@ -6,6 +6,11 @@
 
 A custom theme that combines the best of both worlds. While I loved One Dark Pro's syntax highlighting, even its Darker variant wasn't quite dark enough for my taste. When VS Code introduced their Dark Modern theme, I was impressed by it but was missing One Dark Pro's syntax colors. This inspired me to create a hybrid theme that features **One Dark Pro**'s excellent syntax highlighting with **VS Code Dark Modern**'s refined user interface elements.
 
+With VS Code's **2026 Dark** theme release, I did the same again: **One Dark 2026 Pro** pairs One Dark Pro syntax with the brand new 2026 Dark UI. Pick whichever you prefer from the Color Theme picker:
+
+- **One Dark Modern Pro**: One Dark Pro syntax + VS Code Dark Modern UI
+- **One Dark 2026 Pro**: One Dark Pro syntax + VS Code 2026 Dark UI
+
 [GitHub Repo](https://github.com/aleksa-codes/one-dark-modern-pro)
 
 ## Preview
@@ -15,7 +20,7 @@ A custom theme that combines the best of both worlds. While I loved One Dark Pro
 ## Features
 
 - **Syntax Highlighting**: [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) theme syntax colors.
-- **UI Elements**: VS Code's native [Dark Modern](https://github.com/microsoft/vscode/blob/main/extensions/theme-defaults/themes/dark_modern.json) UI elements.
+- **UI Elements**: VS Code's native [Dark Modern](https://github.com/microsoft/vscode/blob/main/extensions/theme-defaults/themes/dark_modern.json) UI elements, or the brand new [2026 Dark](https://github.com/microsoft/vscode/blob/main/extensions/theme-defaults/themes/2026-dark.json) UI elements.
 
 ## Leave a Review
 
@@ -25,7 +30,7 @@ If you enjoy using this theme, please consider leaving a review and rating on th
 
 To enhance your coding experience, consider using the following:
 
-- **Font**: [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) – A clean, monospaced font designed specifically for developers.
+- **Font**: Either [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) – a clean, classic monospaced font designed specifically for developers, or [IBM Plex Mono](https://github.com/IBM/plex) – a modern, geometric monospaced font with excellent legibility.
 - **Icons**: [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) – A modern and stylish icon set for Visual Studio Code.
 
 ## How to Switch to the Theme (If Not Applied Automatically)
